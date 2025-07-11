@@ -3,7 +3,7 @@
 This analysis was done for a company that supplies scaffolding equipment to a client. The company also has staff at the client’s premises to attend to requests to erect scaffold towers of different heights. Scaffold towers have to be dismantled from one site on the premises to be erected at the site where they are requested because the client requested only a limited amount of equipment. Some sites are in states that cause difficulty in working. Staff complete daily timesheets for requests fulfilled and they are captured onto an excel spreadsheet by a data capturer.  
 
 ### Problem defintion
-1.	The client raised concerns with discrepancies in billing e.g., the erection of smaller towers is sometimes billed higher than bigger towers.  
+1.	The client raised concerns with discrepancies in billing e.g. the erection of smaller towers is sometimes billed higher than bigger towers.  
 2.	The bill for March was higher than the bill for April, yet the number of hours worked in April was more.  
 The company requested that I do an analysis to find out the reason for the discrepancies so that they can explain these and make recommendations to their client.  
 ## Data Analysis Process
