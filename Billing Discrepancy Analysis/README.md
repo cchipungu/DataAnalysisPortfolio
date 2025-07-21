@@ -20,7 +20,7 @@ Billing for normal working hours is done using a fixed rate per hour, but billin
 
 I created 2 dashboards, one to answer each question.
 ### Tower size billing discrepancy dashboard
-[See my work here](https://github.com/cchipungu/DataAnalysisPortfolio/blob/main/Billing%20Discrepancy%20Analysis/TowerBilling/TowerBilling%20Discrepancy%20Analysis.xls)
+[See my work here](https://github.com/cchipungu/DataAnalysisPortfolio/blob/main/Billing%20Discrepancy%20Analysis/TowerBilling/TowerBilling%20Discrepancy%20Analysis.xlsx)
 
 ![TowerBilling](https://github.com/user-attachments/assets/669a2abe-5ca4-469e-b021-1e796feba010)
 
